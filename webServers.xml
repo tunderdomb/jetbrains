@@ -1,0 +1,37 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="88ab97e2-1d40-4128-bf78-532f467dd59a" name="monogatari local" url="http://monogatari/">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="aab03df8-4037-4eea-aaeb-3b5abf116910" name="test3" url="http://188.227.225.142">
+        <fileTransfer host="188.227.225.142" port="21" password="df9ddfebdf98df9ddf9cdf93df9cdf9adf87df9adf99df98dfebdf87df9edf9adf99df98df87dfe8df93dfeedfe8df87df99df9fdf99dfe8df9fdf9fdfebdf9bdfe9dfe8dfe8dfeb" username="nagyzoltan">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="5d289064-841f-4be6-b090-603cfcf4c1bb" name="test6.mokako.hu" url="http://test6.mokako.hu">
+        <fileTransfer host="test6.mokako.hu" port="21" password="dfdedfcfdfd9dfdedf9cdf84dfc7dfc5dfc1dfcbdfc1dfc5df84dfc2dfdf" username="test6.mokako.hu">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="f2b9a5b3-cb01-474c-ad82-682370a174f2" name="pinkslim.fitness-termek.hu" url="http://pinkslim.fitness-termek.hu">
+        <fileTransfer host="pinkslim.fitness-termek.hu" port="21" password="dfdadfc3dfc4dfc1dfd9dfc6dfc3dfc7df84dfccdfc3dfdedfc4dfcfdfd9dfd9df87dfdedfcfdfd8dfc7dfcfdfc1df84dfc2dfdf" username="pinkslim.fitness-termek.hu">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="8085266d-b7ae-435e-bc2f-21963be92d4d" name="exadev" url="http://exadev.dyndns.org">
+        <fileTransfer host="exadev.dyndns.org" port="22" privateKey="C:\Users\Sokka\.ssh\exa_rsa" accessType="SFTP" passphrase="dfdedfc3dfd9dfd0dfcbdf9bdf93df9ddf9b" username="tunderdomb" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>

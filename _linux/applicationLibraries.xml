@@ -1,0 +1,64 @@
+<application>
+  <component name="libraryTable">
+    <library name="chai-DefinitelyTyped" type="javaScript">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.WebIde70/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_chai_chai.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="es6-collections-DefinitelyTyped" type="javaScript">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.WebIde80/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_es6-collections_es6-collections.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="es6-promise-DefinitelyTyped" type="javaScript">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.WebIde80/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_es6-promise_es6-promise.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="mocha-DefinitelyTyped" type="javaScript">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.WebIde70/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_mocha_mocha.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="mocha-phantomjs-DefinitelyTyped" type="javaScript">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.WebIde80/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_mocha-phantomjs_mocha-phantomjs.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="mongoose-DefinitelyTyped" type="javaScript">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.WebStorm9/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_mongoose_mongoose.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="phantomjs-DefinitelyTyped" type="javaScript">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.WebIde70/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_phantomjs_phantomjs.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="request-DefinitelyTyped" type="javaScript">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.WebStorm9/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_request_request.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="requirejs-DefinitelyTyped" type="javaScript">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.WebStorm9/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_requirejs_require.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="twemoji" type="javaScript">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.WebIde80/system/extLibs/__twemoji.maxcdn.com_twemoji.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+  </component>
+</application>

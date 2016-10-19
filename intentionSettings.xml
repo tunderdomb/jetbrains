@@ -1,0 +1,9 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Language Injection/Edit Injection Settings" />
+    <ignoreAction name="CSS/Convert color to HEX" />
+    <ignoreAction name="CSS/Convert color to HSL/HSLA" />
+    <ignoreAction name="CSS/Convert color to RGB/RGBA" />
+    <ignoreAction name="XML/Expand Empty Tag" />
+  </component>
+</application>

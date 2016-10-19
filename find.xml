@@ -1,0 +1,45 @@
+<application>
+  <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
+    <option name="customScope" value="client" />
+    <option name="defaultScopeName" value="client" />
+    <option name="localCaseSensitive" value="true" />
+    <option name="localRegularExpressions" value="true" />
+    <option name="showResultsInSeparateView" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
+    <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
+    <option name="SEARCH_SCOPE" value="client" />
+    <recentFileMasks>
+      <mask>*.properties</mask>
+      <mask>*.jsp</mask>
+      <mask>*.xml</mask>
+      <mask>*.java</mask>
+      <mask>*.as</mask>
+      <mask>*.css</mask>
+      <mask>*.mxml</mask>
+      <mask>*.(css|scss|js|html|twig)</mask>
+      <mask>*.scss|*.css</mask>
+      <mask>*.(scss)</mask>
+      <mask>*.scss, *.css, *.js, *.html, *.twig</mask>
+      <mask>*.html</mask>
+      <mask>*.js|*.twig</mask>
+      <mask>.yml</mask>
+      <mask>*.js,*.twig,*.php,*.yaml</mask>
+      <mask>*.js,*.twig,*.php,*.yml,*.scss</mask>
+      <mask>*.js,*.twig,*.php,*.yml</mask>
+      <mask>*.js,*.twig</mask>
+      <mask>*.js,*.twig,*.scss</mask>
+      <mask>*.js,*.twig,*.php</mask>
+      <mask>*.js,*.scss</mask>
+      <mask>*.dust</mask>
+      <mask>*.php</mask>
+      <mask>*.scss</mask>
+      <mask>*.yml</mask>
+      <mask>*.twig</mask>
+      <mask>*.js</mask>
+      <mask>*.styl</mask>
+    </recentFileMasks>
+  </component>
+</application>
