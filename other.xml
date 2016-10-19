@@ -66,9 +66,6 @@
     <option name="SEND_ENVIRONMENT_VARIABLES_TO_SERVER" value="false" />
     <option name="SHOW_PATH" value="true" />
   </component>
-  <component name="ExternalResourceManagerImpl">
-    <resource url="http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" location="$USER_HOME$/.WebIde100/system/extResources/2889bd79_svg11.dtd" />
-  </component>
   <component name="NodeLocalInterpreterManager">
     <node-interpreter path="/usr/local/bin/node" version="4.4.7" last-modified="1467734800000" />
     <node-interpreter path="/usr/bin/node" version="0.10.46" last-modified="1466727643000" />
@@ -78,6 +75,9 @@
     <option name="RENAME_SEARCH_NON_CODE_FOR_CLASS" value="true" />
     <option name="RENAME_SEARCH_IN_COMMENTS_FOR_METHOD" value="true" />
     <option name="EXTRACT_FIELD_DEFAULT_VISIBILITY" value="protected" />
+  </component>
+  <component name="RefactoringSettings">
+    <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="false" />
   </component>
   <component name="VcsApplicationSettings" PATCH_STORAGE_LOCATION="/workspace/lingowebapp">
     <option name="PATCH_STORAGE_LOCATION" value="/workspace/lingowebapp" />
