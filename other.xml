@@ -76,6 +76,9 @@
     <option name="RENAME_SEARCH_IN_COMMENTS_FOR_METHOD" value="true" />
     <option name="EXTRACT_FIELD_DEFAULT_VISIBILITY" value="protected" />
   </component>
+  <component name="RefactoringSettings">
+    <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="false" />
+  </component>
   <component name="VcsApplicationSettings" PATCH_STORAGE_LOCATION="/workspace/lingowebapp">
     <option name="PATCH_STORAGE_LOCATION" value="/workspace/lingowebapp" />
   </component>
